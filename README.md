@@ -6,6 +6,7 @@ An undergraduated software engineer, passionate in technology especially in clou
 - Studying 4th (Senior) year @ International School of Engineering, Chulalongkorn University (ISE CU) <br> Majoring in Information and Communication Engineering (ICE)
 
 ### 🧑‍💻 Work Experience
+- Aug 2024-Present Intern: Fullstack Developer @ Arise by Infinitas
 - Summer Intern 2024: Software Engineer @ LINE Company Thailand, LINE Rookie Program 2024
 - Summer Intern 2023: Application Developer @ IBM Consulting Thailand
 
